@@ -15,6 +15,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Thiti-T",
+      "name": "Thiti-T",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128342013?v=4",
+      "profile": "https://github.com/Thiti-T",
+      "contributions": [
+        "example",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
